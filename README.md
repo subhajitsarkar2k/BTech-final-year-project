@@ -6,10 +6,10 @@ Rainfall prediction is the process of forecasting the occurrence, intensity of r
 
 # Libraries and Technlogy :
 
-Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Random Forest, Logistic Regression
+Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Random Forest Classifier, Logistic Regression
 
 # Proposed Method :
 
-Our Goal is to build a model machine using Python to predict rain with maximum accuracy. Here's the simplified flowchart    for our rain prediction model using Python: 
+Our Goal is to build a model machine using Python to predict rain with maximum accuracy. Here's the simplified flowchart for our rain prediction model using Python: 
 
 ![Proposed Method](https://github.com/user-attachments/assets/6b9c5edb-0575-4396-9a64-e1549a915b87)
