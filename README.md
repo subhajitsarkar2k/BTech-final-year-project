@@ -1,8 +1,11 @@
 # Btech-final-year-project
 
 The objective on rain prediction models reflects a dynamic field of study with continuous advancements driven by technological innovation and a deeper understanding of atmospheric processes.
+
 	Rainfall prediction is the process of forecasting the occurrence, intensity of rainfall over a given period of time.
+
 	It involves the analysis of various meteorological factors such as temperature, humidity, wind patterns, and atmospheric pressure.
+
 	Machine learning algorithms and statistical methods are often used to analyze historical data and make predictions about future rainfall patterns.
 	Accurate rainfall predictions are essential for various sectors such as agriculture, water resource management, flood control, and disaster control.
 	Advances in technology, including remote sensing and high-performance computing, have improved the accuracy and reliability of rainfall prediction models.
